@@ -1,2 +1,3 @@
 # gzifoto-spec-
-<img width="800" height="150" alt="header" src="https://github.com/user-attachments/assets/8cdb79b0-b2a7-441b-a3f1-f15be2f4440f" />
+
+<img width="800" height="150" alt="header02" src="https://github.com/user-attachments/assets/3c824ca8-d76b-4bb9-8e46-ab9331bc0598" />
